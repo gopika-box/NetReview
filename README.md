@@ -1,6 +1,6 @@
 # 🎬 NetReview (React + TMDB API)
 
-A responsive Netflix alike UI built with React.js, Tailwind CSS, and Axios. This application fetches real-time movie and TV show data from the TMDB API, allows users to watch trailers, view detailed movie information, and manage a personal watchlist stored in `localStorage`.
+A responsive Netflix alike UI built with React.js, Tailwind CSS, and Axios. This application fetches real-time movie and TV show data from the TMDB API, allows users to watch trailers, view detailed movie information, and manage a personal watchlist stored in `localStorage`.  
 Live demo: - [Demo Link](https://dictionaryproject7.netlify.app/)
 
 ---
